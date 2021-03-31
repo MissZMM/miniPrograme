@@ -1,0 +1,5 @@
+<!--pages/about/about.wxml-->
+<text class="title">pages/about/about.wxml</text>
+<text>Hello World</text>
+<button size="mini">确认</button>
+
